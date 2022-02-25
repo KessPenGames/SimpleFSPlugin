@@ -1,0 +1,8 @@
+name: SimpleFSplugin
+version: '${project.version}'
+main: net.simple.forscore.plugin.Main
+api-version: 1.18
+authors: [ KessPenGames ]
+description: Сборная салянка плагинов для ForScore
+website: https://forscore.ru/
+softdepend: [ CrazyAdvancementsAPI, Chatty, DiscordSRV ]
