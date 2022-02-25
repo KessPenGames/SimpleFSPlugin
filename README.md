@@ -1,1 +1,1 @@
-"Плагин для ForScore" 
+"Plugin for ForScore" 
